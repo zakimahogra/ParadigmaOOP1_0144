@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP1_0144", "ParadigmaOOP1_0144\ParadigmaOOP1_0144.vcxproj", "{C1E1C27A-5C85-490A-9E2D-4E1FF2663214}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paradigma1", "Paradigma1\Paradigma1.vcxproj", "{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C1E1C27A-5C85-490A-9E2D-4E1FF2663214}.Release|x64.Build.0 = Release|x64
 		{C1E1C27A-5C85-490A-9E2D-4E1FF2663214}.Release|x86.ActiveCfg = Release|Win32
 		{C1E1C27A-5C85-490A-9E2D-4E1FF2663214}.Release|x86.Build.0 = Release|Win32
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Debug|x64.ActiveCfg = Debug|x64
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Debug|x64.Build.0 = Debug|x64
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Debug|x86.Build.0 = Debug|Win32
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Release|x64.ActiveCfg = Release|x64
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Release|x64.Build.0 = Release|x64
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Release|x86.ActiveCfg = Release|Win32
+		{2F4441BC-BAF3-4E2B-BA28-29F9D5021547}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
