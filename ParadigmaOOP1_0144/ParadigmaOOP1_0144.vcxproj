@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="ParadigmaOOP1_0144.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jantung.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
