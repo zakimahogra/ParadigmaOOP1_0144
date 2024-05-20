@@ -8,3 +8,7 @@ private:
 	string nama;
 	float nilai;
 
+public:
+	mahasiswa(int pId, string pNama, float pNilai) :id(pId), nama(pNama)
+}
+
